@@ -1,1 +1,1 @@
-main.py çalıştırıldıktan sonra game.py çalıştırılarak görsel olarak modelin çalışmasını görebilirsiniz.
+main.py çalıştırıldıktan sonra game.py çalıştırarak görsel olarak modelin çalışmasını görebilirsiniz.
