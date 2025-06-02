@@ -1,0 +1,6 @@
+torch
+numpy
+matplotlib
+pydantic
+pygame
+pygame_gui
